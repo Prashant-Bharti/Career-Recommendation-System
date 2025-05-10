@@ -1,6 +1,6 @@
 # Career-Recommendation-System
 AI Powered Career Recommendation System
-<p>Run using following command in terminal: “streamlit run career_app2.py”\
+<p>Run using following command in terminal: “streamlit run career_app2.py”
 </p>
 
 ![Screenshot 2025-05-10 194449](https://github.com/user-attachments/assets/466c5382-9e9d-44ee-923e-da140d26fb16)
